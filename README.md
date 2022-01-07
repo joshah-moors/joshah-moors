@@ -1,6 +1,6 @@
 <div align="center">
 
-  # 🤠 What's goin on y'all!?
+  # 🤠 Hey y'all!
 
 </div>
 
