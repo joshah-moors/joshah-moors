@@ -1,6 +1,14 @@
 <div align="center">
 
-  # 🤠 Hey y'all 
+  # 🤠 Hey y'all
+  
+  Some descriptive text here.
+  
+  ## Get at me:
+  
+  <a href="https://www.linkedin.com/in/joshahmoors/">
+    <img alt="Joshah Moors Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 
 </div>
 
