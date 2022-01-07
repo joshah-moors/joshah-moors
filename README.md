@@ -1,6 +1,6 @@
 <div align="center">
 
-  # 🤠 Hey y'all!
+  # Hey y'all, I'm Joshah 🤠
 
 </div>
 
